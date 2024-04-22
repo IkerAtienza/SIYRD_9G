@@ -1,1 +1,1 @@
-SIYRD 9G model implementation: Code and data.
+SIYRD model extension with 9 age groups: Code and data.
